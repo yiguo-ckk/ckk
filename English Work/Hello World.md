@@ -9,4 +9,6 @@
 >This is a quote from Trump  
 *This is a fake news!*  
 **This is a fake news!**  
-~~This is a fake news~~
+~~This is a fake news~~  
+***  
+
